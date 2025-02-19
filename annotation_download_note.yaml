@@ -1,0 +1,16 @@
+This file is to show where to download the annotation if you would like to score your dataset
+
+1. REVEL
+link to download: https://sites.google.com/site/revelgenomics/downloads?authuser=0
+
+2. MGI
+link to download: https://www.informatics.jax.org/downloads/reports/index.html
+
+3. GnomAD variants z scores and gene constraint 
+link to download: https://gnomad.broadinstitute.org/data - Constraint
+
+4. Gene ontology 
+link to download: https://current.geneontology.org/products/pages/downloads.html - goa_human.gaf
+
+5. Alpha missense 
+link to download: https://zenodo.org/records/8208688 - AlphanMissense_hg38.tsv.gz
