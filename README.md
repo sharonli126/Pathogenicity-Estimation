@@ -6,16 +6,20 @@ It aims to enhance the accuracy of ranking potential pathogenic variants, partic
 ⚠️ IMPORTANT: The required data file is not included in the GitHub repository due to its size.
 
 🔹 Step 1: Download the Data File
+    
     👉 Download the required data file [here](https://drive.google.com/file/d/1Lo4_9DeWrOemetByDw0wGuHLoQRTEcPM/view?usp=sharing)
 
 🔹 Step 2: Add the Data File to the Project
+    
     After downloading, move the file into the cloned repository's directory.
 
 🔹 Step 3: Open and Run the Jupyter Notebook
+    
     Open main.ipynb in Jupyter Notebook.
+    
     Follow the steps in the notebook to:
-    Run the program with test data OR
-    Replace the test data with patient data for analysis.
+    
+    Run the program with test data OR Replace the test data with patient data for analysis.
 
 # How to find potential pathogenic variant
 Sort the table by total score after you obtain the ouput table, the higher score it is, the more likely it is pathogenic variant. It was validated to have all targeted candidates within top 3%.
